@@ -1,0 +1,10 @@
+{
+  "citizenId": 1,
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "john@doe.com",
+  "dni": 12345678,
+  "birthDate": "1980-01-01",
+  "address": "Alvarado 123",
+  "deskId": 1
+}
